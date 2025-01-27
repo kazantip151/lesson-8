@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is from bash localy
+=======
+Its from website
+>>>>>>> 99b1d7a904e6dfe2cc572582fb8e7a53376f626c
